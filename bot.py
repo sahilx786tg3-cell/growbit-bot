@@ -4,7 +4,7 @@ from telegram.ext import Application, CommandHandler, ContextTypes
 
 logging.basicConfig(level=logging.INFO)
 
-BOT_TOKEN = "APNA_NAYA_TOKEN"
+BOT_TOKEN = "8415519466:AAGf8hr44HaF5b633hW8hGnBnZmXPVpxu9k"
 ADMIN_ID = 6520878121
 APP_URL = "https://legendary-starburst-b72020.netlify.app"
 
